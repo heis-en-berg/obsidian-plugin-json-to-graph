@@ -1,0 +1,10 @@
+{
+	"id": "json-to-graph-visualization",
+	"name": "JSON to graph visualization",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This is a plugin that generates a graph visualization from JSON data",
+	"author": "Karan",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
